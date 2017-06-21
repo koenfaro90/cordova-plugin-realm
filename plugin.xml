@@ -39,7 +39,6 @@
     <framework src="Realm" type="podspec" spec="~> 2.1.0" />
     <framework src="libc++.tbd" />
     <framework src="libz.tbd" />
-    <framework src="src/ios/Realm.framework" custom="true" />
     <header-file src="src/ios/Models.h" />
 
     <header-file src="src/ios/MCJSONDateTransformer.h" />
